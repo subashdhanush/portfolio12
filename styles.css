@@ -1,0 +1,139 @@
+body
+{
+background-color:rgb(8 46 78);
+color:whiteSmoke;
+font-family: 'Source Serif Pro', serif;
+/* font-family: 'Overpass', sans-serif; */
+}
+.about
+{
+margin: 40px;
+padding:10px;    
+}
+.form
+{
+margin: 40px;
+padding: 10px;
+font-size: 20px;
+word-spacing: 5px;
+line-height: 1;
+}
+.name
+{
+ text-align:center;   
+}
+.header
+{
+ display: flex;
+ justify-content: space-around;
+ background-color:rgba(8,46,78);
+ color: rgb(142 169 180);   
+}
+.list
+{
+ display: flex;
+ justify-content: space-around;
+ font-size: 30px;
+ font-family: 'Source Serif Pro', serif;   
+}
+#heading
+{
+ margin: 40px;
+ padding:10px;   
+}
+.contact
+{
+/* position:absolute;     */
+margin: 150px;
+text-align:center;
+/* right:0px; */
+padding:10px;
+font-family: 'Source Serif Pro', serif;    
+}
+/* .communicate
+{  
+ position:absolute;
+ top:250px;
+ word-spacing: 1px;
+ letter-spacing: 3px;
+ text-indent: 50px;
+ text-align: justify;
+ line-height: 1.8;
+ text-align: justify;
+} */
+.communicate
+{ 
+ position:absolute;   
+ top:80px;   
+ padding:10px;   
+ margin: 150px;
+ right: 10px;
+ left:10px;
+ text-align:center;    
+ word-spacing: 1px;
+ letter-spacing: 3px;
+ text-indent: 50px;
+ text-align: justify;
+ line-height: 1.8;
+ text-align: justify;
+ text-align:center;
+}
+
+/* text-align: justify; */
+.work
+{
+line-height: 1.8;    
+}
+.social
+{
+ text-align:center;
+ word-spacing: 1px;
+
+}
+.Intro
+{
+position: absolute;    
+margin-left: 250px;
+top: 150px;
+color: rgb(142 169 180);
+
+}
+.button1
+{
+ position: absolute;   
+ background-color:rgb(234 180 30);
+ color: whitesmoke;  
+ padding: 14px 80px;
+ bottom: 300px;
+ left:240px;
+ font-weight: bold;
+ font-size: medium; 
+}
+.button2
+{
+ position: absolute;   
+ /* background-color:rgb(234 180 30); */
+ background-color:rgb(8 46 78);
+ border-style:solid;
+ border-color: rgb(234,180,30);
+ color: rgb(234,180,30);  
+ padding: 14px 80px;
+ bottom: 300px;
+ left:550px;
+ font-weight: bold;
+ font-size: medium;
+    
+}
+.name
+{
+color: rgb(234 180 30);   
+}
+section
+{
+background-color:rgba(8,46,78);
+}
+.media
+{
+display:flex;
+justify-content:space-around;    
+}
